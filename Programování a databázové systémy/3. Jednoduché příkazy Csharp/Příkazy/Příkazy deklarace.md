@@ -1,0 +1,1 @@
+Klasické deklarování proměnných - **datový typ**, **název proměnné**, **hodnota** - defaultně null

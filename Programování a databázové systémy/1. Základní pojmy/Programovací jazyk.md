@@ -1,0 +1,1 @@
+Programovací jazyk, je jazyk srozumitelný člověku, zároveň pokud budeme dodržovat syntaktické pravidla jazyku, bude srozumitelný překladači, který následně kód převede do strojového kódu

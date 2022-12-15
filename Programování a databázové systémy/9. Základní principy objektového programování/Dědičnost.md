@@ -1,0 +1,1 @@
+Třídy mohou dědit vlastnosti, můžeme například využít interface - což je abstraktní datový typ, strukturované datové typy nalezneme zde [[Strukturované datové typy]].

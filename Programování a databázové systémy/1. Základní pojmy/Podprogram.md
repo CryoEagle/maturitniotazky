@@ -1,0 +1,1 @@
+Je v informatice část programu kterou lze opakovaně použít, např. IO řešení

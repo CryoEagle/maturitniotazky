@@ -1,0 +1,1 @@
+_**statické třídy není nutno instancovat**_, všechny její funkce a vlastnosti jsou **_okamžitě dostupné_**, má to svoje využití, má to nevýhodu že nemůžeme deklarovat vlastnosti takové třídy.

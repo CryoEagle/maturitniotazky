@@ -1,0 +1,1 @@
+například **_foreach_**, **_for_**, **_while_**.

@@ -1,0 +1,152 @@
+{
+  "main": {
+    "id": "a94938b798bea4b2",
+    "type": "split",
+    "children": [
+      {
+        "id": "ed34b943b360350b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2a7fcfee0e3d9e9e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Programování a databázové systémy/14. Zásady návrhů databází/Zásady návrhů databází.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "beabc631aab25daa",
+    "type": "split",
+    "children": [
+      {
+        "id": "83cf453453a6eaa3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "55a6554caec3e910",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "197cf0fed24b82d8",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "6d5ef43c87771663",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "cc99ed8e378c21ea",
+    "type": "split",
+    "children": [
+      {
+        "id": "131cab1b8ba837a6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f6a8c72c399e8f37",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Programování a databázové systémy/14. Zásady návrhů databází/Zásady návrhů databází.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e2505a8ab64f492d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Programování a databázové systémy/14. Zásady návrhů databází/Zásady návrhů databází.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "bee79d478f943e4a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "88fa3723e18cd7c2",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Programování a databázové systémy/14. Zásady návrhů databází/Zásady návrhů databází.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "2a7fcfee0e3d9e9e",
+  "lastOpenFiles": [
+    "Programování a databázové systémy/Programování a databázové systémy.md",
+    "Programování a databázové systémy/13. Základní pojmy databázových systémů/Základní pojmy databázových systémů.md",
+    "Programování a databázové systémy/11. Práce s dialogy/Práce s dialogy.md",
+    "Programování a databázové systémy/12. Práce se soubory/Práce se soubory.md",
+    "Programování a databázové systémy/10. Komponentové a událostmi řízené programování/Komponentové a událostmi řízené programování.md",
+    "Programování a databázové systémy/10. Komponentové a událostmi řízené programování/Komponenty.md",
+    "Programování a databázové systémy/10. Komponentové a událostmi řízené programování/Událostmi řízená architektura.md",
+    "Programování a databázové systémy/9. Základní principy objektového programování/Základní principy objektového programování.md",
+    "Programování a databázové systémy/9. Základní principy objektového programování/Dědičnost.md",
+    "Programování a databázové systémy/9. Základní principy objektového programování/Statické vs. nestatické třídy.md"
+  ]
+}

@@ -1,0 +1,1 @@
+klasicky **_try-catch_**.

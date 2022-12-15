@@ -1,0 +1,1 @@
+například **_break_**, **_continue_**, **_return_**.
