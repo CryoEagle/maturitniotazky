@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programování a databázové systémy/21. Datové sestavy databázové aplikace/Datové sestavy a databázové aplikace.md",
+                "file": "Programování a databázové systémy/20. Formulář databázové aplikace/Formulář databázové aplikace.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programování a databázové systémy/21. Datové sestavy databázové aplikace/Datové sestavy a databázové aplikace.md",
+                "file": "Programování a databázové systémy/20. Formulář databázové aplikace/Formulář databázové aplikace.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Programování a databázové systémy/21. Datové sestavy databázové aplikace/Datové sestavy a databázové aplikace.md",
+                "file": "Programování a databázové systémy/20. Formulář databázové aplikace/Formulář databázové aplikace.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programování a databázové systémy/21. Datové sestavy databázové aplikace/Datové sestavy a databázové aplikace.md"
+                "file": "Programování a databázové systémy/20. Formulář databázové aplikace/Formulář databázové aplikace.md"
               }
             }
           }
@@ -149,14 +149,14 @@
   "active": "fcf86e5e32de564f",
   "lastOpenFiles": [
     "Programování a databázové systémy/Programování a databázové systémy.md",
-    "Programování a databázové systémy/21. Datové sestavy databázové aplikace/Datové sestavy a databázové aplikace.md",
-    "Programování a databázové systémy/20. Formulář databázové aplikace/Formulář databázové aplikace.md",
-    "Programování a databázové systémy/20. Formulář databázové aplikace/formuláře.png",
+    "Programování a databázové systémy/18. Vlastnosti polí/Vlastnosti polí.md",
+    "Programování a databázové systémy/17. PHP MYSQL - komunikace aplikace s databází/PHP MYSQL - komunikace aplikace s databází.md",
+    "Programování a databázové systémy/16. PhpMyAdmin/PHPMyAdmin.md",
     "Programování a databázové systémy/15. MS Access/MS Access.md",
-    "Programování a databázové systémy/7. Jednoduché datové typy/Jednoduché datové typy.md",
-    "Programování a databázové systémy/6. Metody/Metody.md",
-    "Programování a databázové systémy/5. Příkazy větvení v Csharpu/Příkazy větvení v Csharpu.md",
-    "Programování a databázové systémy/4. Příkazy cyklů v Csharpu/Příkazy cyklů v Csharpu.md",
-    "Programování a databázové systémy/3. Jednoduché příkazy Csharp/Jednoduché příkazy Csharp.md"
+    "Programování a databázové systémy/14. Zásady návrhů databází/Zásady návrhů databází.md",
+    "Programování a databázové systémy/13. Základní pojmy databázových systémů/Základní pojmy databázových systémů.md",
+    "Maturita.md",
+    "Programování a databázové systémy/21. Datové sestavy databázové aplikace/Datové sestavy a databázové aplikace.md",
+    "Programování a databázové systémy/20. Formulář databázové aplikace/Formulář databázové aplikace.md"
   ]
 }

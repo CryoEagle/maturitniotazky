@@ -31,3 +31,8 @@ Informační systém je pak rozsáhlejší systém sloužící pro sběr uchová
 ## integritní omezení 
 - hlídá např. jaký je zadán typ na vstupu
 
+# Význam informačních systémů
+
+# Rozdíly mezi databázovým a nedatabázovým řešením
+
+# SŘBD

@@ -1,3 +1,5 @@
+Zpět na [[Programování a databázové systémy]].
+
 ```php
 <?php  
 	$link = mysql_connect('localhost', 'mysql_user', 'mysql_password');  
@@ -27,3 +29,13 @@ echo "</table>";
 Možnost ORM například *__Doctrine__*.
 
 Bezpečnost, **_bezpečné skládání stringů_**/**_příkazů_**.
+
+## mySql - význam, verze, licencování, vývoj
+
+## architektura DS
+
+## úložiště dat - enginy
+
+## podporované vlastnosti
+
+## konektor a ukázka aplikace

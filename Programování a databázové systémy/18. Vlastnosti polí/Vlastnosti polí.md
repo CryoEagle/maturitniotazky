@@ -18,3 +18,7 @@ Jako vlastnosti mohou být použity funkce:
 
 a blablabla,
 funkce jdou jednoduše v C# připevnit odkudkoliv.
+
+## datové typy a jejich rozměr
+
+## klíče a indexy
