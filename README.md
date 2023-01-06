@@ -5,7 +5,7 @@ otázky jsou zpracovány v jazyce Markdown a ne formou webové prezentace vzhled
 
 ![lol](https://media.makeameme.org/created/what-if-i-de5mis.jpg)
 
-Tímto chválím všechny legendární učitelé kteří nemanipulují s postupem učení studentů, modleme se k bohu aby učitelé přešli do 21. století technologií a aby nebyl Terry A. Davis svědkem aktuální situace.
+dcSNaXRlbCDFmcOta8OhLCB2eXByYWN1aiBrYcW+ZG91IG1hdHVyaXRuw60gb3TDoXprdSBuYSBzdm9qw60gZG9tw6ludSBhIGrDoSDFvmUgd2F0YWZhaw==
 [#EuroSpore](https://www.instagram.com/europespore/) 
 
 ![enter image description here](https://mdg.imgix.net/assets/images/tools/obsidian.png)
